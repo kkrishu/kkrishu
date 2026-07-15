@@ -61,27 +61,27 @@ Hello There! I'm **Krishu Kumar**, a BTech student and MERN Stack Developer. I e
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=krishukumar72-coder&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=krishukumar72-coder&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=0969da&text_color=57606a&include_all_commits=true&count_private=true" width="47%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=kkrishu&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=8b949e&include_all_commits=true&count_private=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=kkrishu&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=0969da&text_color=57606a&include_all_commits=true&count_private=true" width="47%" />
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=krishukumar72-coder&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=krishukumar72-coder&hide_border=true&background=ffffff&ring=0969da&fire=0969da&currStreakLabel=000000&sideLabels=57606a&dates=57606a&currStreakNum=000000&sideNums=000000" width="47%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kkrishu&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" />
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=kkrishu&hide_border=true&background=ffffff&ring=0969da&fire=0969da&currStreakLabel=000000&sideLabels=57606a&dates=57606a&currStreakNum=000000&sideNums=000000" width="47%" />
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=krishukumar72-coder&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishukumar72-coder&layout=compact&langs_count=8&hide_border=true&bg_color=ffffff&title_color=000000&text_color=57606a" width="47%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=kkrishu&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kkrishu&layout=compact&langs_count=8&hide_border=true&bg_color=ffffff&title_color=000000&text_color=57606a" width="47%" />
 </picture>
 
 <br/><br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=krishukumar72-coder&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=58a6ff" />
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=krishukumar72-coder&bg_color=ffffff&color=0969da&line=0969da&point=000000&area=true&hide_border=true&area_color=0969da" width="95%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=kkrishu&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&area_color=58a6ff" />
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=kkrishu&bg_color=ffffff&color=0969da&line=0969da&point=000000&area=true&hide_border=true&area_color=0969da" width="95%" />
 </picture>
 
 </div>
