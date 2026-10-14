@@ -1,8 +1,8 @@
-<div align="center">
+<!-- <div align="center">
 
 <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:0a0a0a&height=220&section=header&text=Welcome+to+Krishu+Github&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=MERN+Stack+Developer&descAlignY=60&descColor=aaaaaa&animation=fadeIn" width="100%" />
 
-</div>
+</div> -->
 
 ---
 
@@ -24,7 +24,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
 
-Hello There! I'm **Krishu Kumar**, a BTech student and FULL Stack Developer. I enjoy building full-stack web applications and solving real-world problems with clean, scalable code.
+Hello There! I'm **Krishu Kumar**, a BTech student and MERN Stack Developer. I enjoy building full-stack web applications and solving real-world problems with clean, scalable code.
 
 &nbsp;&nbsp;&nbsp; 🎓 Pursuing **BTech** at my university<br/>
 &nbsp;&nbsp;&nbsp; 💻 Passionate about **Full-Stack Web Development**<br/>
