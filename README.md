@@ -24,7 +24,7 @@
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
 
-Hello There! I'm **Krishu Kumar**, a BTech student and MERN Stack Developer. I enjoy building full-stack web applications and solving real-world problems with clean, scalable code.
+Hello There! I'm **Krishu Kumar**, a BTech student and FULL Stack Developer. I enjoy building full-stack web applications and solving real-world problems with clean, scalable code.
 
 &nbsp;&nbsp;&nbsp; 🎓 Pursuing **BTech** at my university<br/>
 &nbsp;&nbsp;&nbsp; 💻 Passionate about **Full-Stack Web Development**<br/>
